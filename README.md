@@ -43,7 +43,7 @@ Tic Tac Toe is a two-player game where each player takes turns marking a square 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd tic-tac-toe
+   cd Tic-Tac-Toe
    ```
 
 3. **Install dependencies (for GUI version):**
@@ -98,12 +98,6 @@ We welcome contributions to improve the game! Here are some ways you can help:
 - Improving documentation
 - Submitting pull requests
 
-To contribute, please fork the repository, make your changes, and create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 Enjoy playing the game! Feel free to enhance it further or adapt it for your own needs. If you have any questions or suggestions, open an issue or reach out!
