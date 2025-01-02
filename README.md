@@ -24,11 +24,6 @@ Tic Tac Toe is a two-player game where each player takes turns marking a square 
 - Easy-to-understand code for anyone to modify or improve
 - Support for different board sizes and rules in future versions
 
-## Requirements
-
-- Python 3.x or higher (for terminal-based implementation)
-- A graphical library (like `tkinter` or `pygame`) for GUI-based versions
-- An internet connection (optional, for downloading dependencies if needed)
 
 ## Installation
 
@@ -37,7 +32,7 @@ Tic Tac Toe is a two-player game where each player takes turns marking a square 
    First, clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe.git
+   https://github.com/its-anamika-anand/Tic-Tac-Toe.git
    ```
 
 2. **Navigate to the project directory:**
