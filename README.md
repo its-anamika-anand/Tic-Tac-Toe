@@ -25,6 +25,13 @@ Tic Tac Toe is a two-player game where each player takes turns marking a square 
 - Support for different board sizes and rules in future versions
 
 
+
+
+
+ GitHub: https://github.com/its-anamika-anand/Tic-Tac-Toe-Game.git
+
+
+
 ## Installation
 
 1. **Clone the repository:**
@@ -92,6 +99,12 @@ We welcome contributions to improve the game! Here are some ways you can help:
 - Suggesting new features
 - Improving documentation
 - Submitting pull requests
+
+
+
+Githut username: its-anamika-anand
+email:- itzanamikaanand@gmail.com
+
 
 
 
